@@ -1,0 +1,454 @@
+{
+    "shows": [
+        {
+            "id": "show_001",
+            "name": "Kızılcık Şerbeti",
+            "posterUrl": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?q=80&w=500",
+            "description": "Muhafazakar ve modern iki ailenin çocuklarının evlenmesiyle başlayan olaylar zinciri."
+        },
+        {
+            "id": "show_002",
+            "name": "Yalı Çapkını",
+            "posterUrl": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?q=80&w=500",
+            "description": "Gaziantepli bir ailenin sorumsuz oğullarını evlendirme çabası ve gelişen aşk hikayesi."
+        },
+        {
+            "id": "show_003",
+            "name": "Kara Sevda",
+            "posterUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=500",
+            "description": "Farklı sosyal sınıflardan iki gencin, imkansız aşkını anlatan Emmy ödüllü dizi."
+        },
+        {
+            "id": "show_004",
+            "name": "Adım Farah",
+            "posterUrl": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?q=80&w=500",
+            "description": "Geçmişinden kaçan gizemli bir kadının yeni hayatında tehlikeli bir adamla karşılaşması."
+        },
+        {
+            "id": "show_005",
+            "name": "Hudutsuz Sevda",
+            "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=500",
+            "description": "Hudutların ötesinde filizlenen, ailelerin karşı çıktığı derin bir aşk hikayesi."
+        },
+        {
+            "id": "show_006",
+            "name": "Emanet",
+            "posterUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=500",
+            "description": "Aile sırları, kayıp vasiyet ve entrikalarla dolu bir yaşam mücadelesi."
+        }
+    ],
+    "episodes": [
+        {
+            "id": "ep_001",
+            "showId": "show_001",
+            "episodeNumber": 45,
+            "title": "Büyük Yüzleşme",
+            "airDate": "2024-02-09"
+        },
+        {
+            "id": "ep_002",
+            "showId": "show_001",
+            "episodeNumber": 62,
+            "title": "Düğün Hazırlıkları",
+            "airDate": "2024-06-14"
+        },
+        {
+            "id": "ep_003",
+            "showId": "show_002",
+            "episodeNumber": 50,
+            "title": "Yeni Bir Başlangıç",
+            "airDate": "2024-02-16"
+        },
+        {
+            "id": "ep_004",
+            "showId": "show_002",
+            "episodeNumber": 68,
+            "title": "Fırtına Öncesi Sessizlik",
+            "airDate": "2024-07-05"
+        },
+        {
+            "id": "ep_005",
+            "showId": "show_003",
+            "episodeNumber": 12,
+            "title": "Gizli Buluşma",
+            "airDate": "2024-03-22"
+        },
+        {
+            "id": "ep_006",
+            "showId": "show_003",
+            "episodeNumber": 30,
+            "title": "Ayrılık Gecesi",
+            "airDate": "2024-08-09"
+        },
+        {
+            "id": "ep_007",
+            "showId": "show_004",
+            "episodeNumber": 8,
+            "title": "Yeni Kimlik",
+            "airDate": "2024-04-12"
+        },
+        {
+            "id": "ep_008",
+            "showId": "show_004",
+            "episodeNumber": 21,
+            "title": "Geçmişin Gölgesi",
+            "airDate": "2024-09-06"
+        },
+        {
+            "id": "ep_009",
+            "showId": "show_005",
+            "episodeNumber": 15,
+            "title": "Sınır Ötesi",
+            "airDate": "2024-05-17"
+        },
+        {
+            "id": "ep_010",
+            "showId": "show_005",
+            "episodeNumber": 33,
+            "title": "Kavuşma Umudu",
+            "airDate": "2024-10-11"
+        },
+        {
+            "id": "ep_011",
+            "showId": "show_006",
+            "episodeNumber": 5,
+            "title": "Vasiyet",
+            "airDate": "2024-01-19"
+        },
+        {
+            "id": "ep_012",
+            "showId": "show_006",
+            "episodeNumber": 24,
+            "title": "Sırların Çözümü",
+            "airDate": "2024-06-28"
+        }
+    ],
+    "outfits": [
+        {
+            "id": "outfit_001",
+            "episodeId": "ep_001",
+            "actorName": "Doğa",
+            "actorImageUrl": "https://randomuser.me/api/portraits/women/44.jpg",
+            "sceneTimestamp": "12:45"
+        },
+        {
+            "id": "outfit_002",
+            "episodeId": "ep_002",
+            "actorName": "Kıvılcım",
+            "actorImageUrl": "https://randomuser.me/api/portraits/women/32.jpg",
+            "sceneTimestamp": "28:10"
+        },
+        {
+            "id": "outfit_003",
+            "episodeId": "ep_003",
+            "actorName": "Seyran",
+            "actorImageUrl": "https://randomuser.me/api/portraits/women/65.jpg",
+            "sceneTimestamp": "34:20"
+        },
+        {
+            "id": "outfit_004",
+            "episodeId": "ep_004",
+            "actorName": "Ferit",
+            "actorImageUrl": "https://randomuser.me/api/portraits/men/75.jpg",
+            "sceneTimestamp": "41:55"
+        },
+        {
+            "id": "outfit_005",
+            "episodeId": "ep_005",
+            "actorName": "Nihan",
+            "actorImageUrl": "https://randomuser.me/api/portraits/women/17.jpg",
+            "sceneTimestamp": "18:30"
+        },
+        {
+            "id": "outfit_006",
+            "episodeId": "ep_006",
+            "actorName": "Kemal",
+            "actorImageUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+            "sceneTimestamp": "52:08"
+        },
+        {
+            "id": "outfit_007",
+            "episodeId": "ep_007",
+            "actorName": "Farah",
+            "actorImageUrl": "https://randomuser.me/api/portraits/women/50.jpg",
+            "sceneTimestamp": "14:40"
+        },
+        {
+            "id": "outfit_008",
+            "episodeId": "ep_008",
+            "actorName": "Tahir",
+            "actorImageUrl": "https://randomuser.me/api/portraits/men/45.jpg",
+            "sceneTimestamp": "33:22"
+        },
+        {
+            "id": "outfit_009",
+            "episodeId": "ep_009",
+            "actorName": "Zeynep",
+            "actorImageUrl": "https://randomuser.me/api/portraits/women/28.jpg",
+            "sceneTimestamp": "22:15"
+        },
+        {
+            "id": "outfit_010",
+            "episodeId": "ep_010",
+            "actorName": "Halil",
+            "actorImageUrl": "https://randomuser.me/api/portraits/men/52.jpg",
+            "sceneTimestamp": "45:50"
+        },
+        {
+            "id": "outfit_011",
+            "episodeId": "ep_011",
+            "actorName": "Yaman",
+            "actorImageUrl": "https://randomuser.me/api/portraits/men/22.jpg",
+            "sceneTimestamp": "10:05"
+        },
+        {
+            "id": "outfit_012",
+            "episodeId": "ep_012",
+            "actorName": "Seher",
+            "actorImageUrl": "https://randomuser.me/api/portraits/women/56.jpg",
+            "sceneTimestamp": "38:33"
+        }
+    ],
+    "products": [
+        {
+            "id": "prod_001",
+            "outfitId": "outfit_001",
+            "productName": "İpek Saten Gömlek",
+            "brand": "Vakko",
+            "price": 4500.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1598033129183-c4f50c7176c8?q=80&w=400",
+            "affiliateUrl": "https://www.vakko.com/ipek-gomlek-p1"
+        },
+        {
+            "id": "prod_002",
+            "outfitId": "outfit_001",
+            "productName": "İnci Küpe Seti",
+            "brand": "Altınbaş",
+            "price": 1250.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?q=80&w=400",
+            "affiliateUrl": "https://www.altinbas.com/inci-kupe"
+        },
+        {
+            "id": "prod_003",
+            "outfitId": "outfit_002",
+            "productName": "Pilili Maksi Etek",
+            "brand": "Twist",
+            "price": 3450.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?q=80&w=400",
+            "affiliateUrl": "https://www.twist.com.tr/pilili-maksi-etek"
+        },
+        {
+            "id": "prod_004",
+            "outfitId": "outfit_002",
+            "productName": "Stiletto Topuklu Ayakkabı",
+            "brand": "Aldo",
+            "price": 5200.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?q=80&w=400",
+            "affiliateUrl": "https://www.aldoshoes.com.tr/stiletto-topuklu"
+        },
+        {
+            "id": "prod_005",
+            "outfitId": "outfit_003",
+            "productName": "Oversize Kaşmir Ceket",
+            "brand": "Zara",
+            "price": 3200.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?q=80&w=400",
+            "affiliateUrl": "https://www.zara.com/tr/kasmir-ceket"
+        },
+        {
+            "id": "prod_006",
+            "outfitId": "outfit_003",
+            "productName": "İnce Zincir Altın Kolye",
+            "brand": "Zen Pırlanta",
+            "price": 7800.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?q=80&w=400",
+            "affiliateUrl": "https://www.zenpirlanta.com/ince-zincir-kolye"
+        },
+        {
+            "id": "prod_007",
+            "outfitId": "outfit_004",
+            "productName": "Slim Fit Lacivert Takım Elbise",
+            "brand": "D'S Damat",
+            "price": 8750.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1594938298603-c8148c4dae35?q=80&w=400",
+            "affiliateUrl": "https://www.dsdamat.com/lacivert-takim"
+        },
+        {
+            "id": "prod_008",
+            "outfitId": "outfit_004",
+            "productName": "Deri Monk-Strap Ayakkabı",
+            "brand": "Hotiç",
+            "price": 4200.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1614252369475-531eba835eb1?q=80&w=400",
+            "affiliateUrl": "https://www.hotic.com.tr/monk-strap"
+        },
+        {
+            "id": "prod_009",
+            "outfitId": "outfit_005",
+            "productName": "Uzun Kadife Elbise",
+            "brand": "Beymen",
+            "price": 15900.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?q=80&w=400",
+            "affiliateUrl": "https://www.beymen.com/kadife-elbise"
+        },
+        {
+            "id": "prod_010",
+            "outfitId": "outfit_005",
+            "productName": "Elmas Tek Taş Yüzük",
+            "brand": "Altınbaş",
+            "price": 24500.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?q=80&w=400",
+            "affiliateUrl": "https://www.altinbas.com/elmas-yuzuk"
+        },
+        {
+            "id": "prod_011",
+            "outfitId": "outfit_006",
+            "productName": "Bordo Kadife Blazer",
+            "brand": "Damat Tween",
+            "price": 7250.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=400",
+            "affiliateUrl": "https://www.damattween.com/bordo-blazer"
+        },
+        {
+            "id": "prod_012",
+            "outfitId": "outfit_006",
+            "productName": "Otomatik Kol Saati",
+            "brand": "Seiko",
+            "price": 19800.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?q=80&w=400",
+            "affiliateUrl": "https://www.seiko.com.tr/otomatik-saat"
+        },
+        {
+            "id": "prod_013",
+            "outfitId": "outfit_007",
+            "productName": "Deri Biker Ceket",
+            "brand": "Mango",
+            "price": 4990.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1551028719-00167b16eac5?q=80&w=400",
+            "affiliateUrl": "https://www.mango.com/tr/deri-biker-ceket"
+        },
+        {
+            "id": "prod_014",
+            "outfitId": "outfit_007",
+            "productName": "Platform Tabanlı Bot",
+            "brand": "Nine West",
+            "price": 5800.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?q=80&w=400",
+            "affiliateUrl": "https://www.ninewest.com.tr/platform-bot"
+        },
+        {
+            "id": "prod_015",
+            "outfitId": "outfit_008",
+            "productName": "Keten Gömlek",
+            "brand": "Massimo Dutti",
+            "price": 3750.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&w=400",
+            "affiliateUrl": "https://www.massimodutti.com/tr/keten-gomlek"
+        },
+        {
+            "id": "prod_016",
+            "outfitId": "outfit_008",
+            "productName": "Aviator Güneş Gözlüğü",
+            "brand": "Ray-Ban",
+            "price": 6400.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?q=80&w=400",
+            "affiliateUrl": "https://www.ray-ban.com/tr/aviator"
+        },
+        {
+            "id": "prod_017",
+            "outfitId": "outfit_009",
+            "productName": "Triko Boğazlı Kazak",
+            "brand": "İpekyol",
+            "price": 2890.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?q=80&w=400",
+            "affiliateUrl": "https://www.ipekyol.com.tr/triko-kazak"
+        },
+        {
+            "id": "prod_018",
+            "outfitId": "outfit_009",
+            "productName": "Yün Karışımlı Palto",
+            "brand": "Network",
+            "price": 9900.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?q=80&w=400",
+            "affiliateUrl": "https://www.network.com.tr/yun-palto"
+        },
+        {
+            "id": "prod_019",
+            "outfitId": "outfit_010",
+            "productName": "Polo Yaka Tişört",
+            "brand": "Lacoste",
+            "price": 4500.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?q=80&w=400",
+            "affiliateUrl": "https://www.lacoste.com.tr/polo-tisort"
+        },
+        {
+            "id": "prod_020",
+            "outfitId": "outfit_010",
+            "productName": "Slim Fit Chino Pantolon",
+            "brand": "Dockers",
+            "price": 3200.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?q=80&w=400",
+            "affiliateUrl": "https://www.dockers.com.tr/slim-chino"
+        },
+        {
+            "id": "prod_021",
+            "outfitId": "outfit_011",
+            "productName": "Oversize Denim Ceket",
+            "brand": "Mavi",
+            "price": 2690.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?q=80&w=400",
+            "affiliateUrl": "https://www.mavi.com/oversize-denim-ceket"
+        },
+        {
+            "id": "prod_022",
+            "outfitId": "outfit_011",
+            "productName": "İtalyan Deri Kemer",
+            "brand": "Cacharel",
+            "price": 2750.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?q=80&w=400",
+            "affiliateUrl": "https://www.cacharel.com.tr/deri-kemer"
+        },
+        {
+            "id": "prod_023",
+            "outfitId": "outfit_012",
+            "productName": "Dantel Detaylı Bluz",
+            "brand": "Koton",
+            "price": 1290.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1564257631407-4deb1f99d992?q=80&w=400",
+            "affiliateUrl": "https://www.koton.com/dantel-bluz"
+        },
+        {
+            "id": "prod_024",
+            "outfitId": "outfit_012",
+            "productName": "Hasır Çapraz Askılı Çanta",
+            "brand": "Pinko",
+            "price": 8900.00,
+            "currency": "TRY",
+            "productImageUrl": "https://images.unsplash.com/photo-1590874103328-eac38a683ce7?q=80&w=400",
+            "affiliateUrl": "https://www.pinko.com/tr/hasir-canta"
+        }
+    ]
+}
