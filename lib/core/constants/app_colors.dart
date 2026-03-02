@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-/// Ne Giyer — Shoppable TV Color Palette
+/// Dizi Market — Shoppable TV Color Palette
 /// Dark-mode-first, premium streaming aesthetic
 class AppColors {
   AppColors._();

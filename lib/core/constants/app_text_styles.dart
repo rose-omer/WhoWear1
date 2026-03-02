@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'app_colors.dart';
 
-/// Ne Giyer Typography System
+/// Dizi Market Typography System
 /// Montserrat (headings) + Inter (body)
 class AppTextStyles {
   AppTextStyles._();

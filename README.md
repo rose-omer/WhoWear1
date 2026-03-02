@@ -1,6 +1,6 @@
-# 📺 Ne Giyer - Shoppable TV App
+# 📺 Dizi Market - Shoppable TV App
 
-**Ne Giyer** is a revolutionary mobile and web application that transforms TV watching into an interactive shopping experience. Users can discover and purchase fashion items worn by their favorite TV show characters in real-time.
+**Dizi Market** is a revolutionary mobile and web application that transforms TV watching into an interactive shopping experience. Users can discover and purchase fashion items worn by their favorite TV show characters in real-time.
 
 ## ✨ Features
 

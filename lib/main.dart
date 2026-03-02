@@ -7,16 +7,16 @@ import 'package:ne_giyer/presentation/views/details/episode_detail_view.dart';
 import 'package:ne_giyer/presentation/views/home/home_view.dart';
 
 void main() {
-  runApp(const NeGiyerApp());
+  runApp(const DiziMarketApp());
 }
 
-class NeGiyerApp extends StatelessWidget {
-  const NeGiyerApp({super.key});
+class DiziMarketApp extends StatelessWidget {
+  const DiziMarketApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Ne Giyer',
+      title: 'Dizi Market',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.darkTheme,
       initialRoute: '/',

@@ -4,7 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 import '../constants/app_colors.dart';
 import '../constants/app_text_styles.dart';
 
-/// Ne Giyer — Premium Dark Theme
+/// Dizi Market — Premium Dark Theme
 /// Shoppable TV konseptine uygun lüks ve modern ThemeData
 class AppTheme {
   AppTheme._();

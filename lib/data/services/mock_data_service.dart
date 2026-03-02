@@ -48,10 +48,10 @@ class MockDataService {
   ];
 
   final List<Episode> _episodes = [
-    const Episode(id: 'ep_001', showId: 'show_001', episodeNumber: 55, title: '', airDate: '2024-03-10', sceneImageUrl: 'https://im.showtv.com.tr/2025/09/03/ver1756923814/3819734_1920x1080.jpg'),
-    const Episode(id: 'ep_002', showId: 'show_002', episodeNumber: 62, title: '', airDate: '2024-03-08', sceneImageUrl: 'https://image.tmdb.org/t/p/original/aBzchfhuZj8JSp3ZGyynoe8hNgu.jpg'),
-    const Episode(id: 'ep_003', showId: 'show_003', episodeNumber: 8, title: '', airDate: '2024-04-02', sceneImageUrl: 'https://mo.ciner.com.tr/showtv/iu/1258x630/bahar.jpg?v=1768983188'),
-    const Episode(id: 'ep_004', showId: 'show_004', episodeNumber: 10, title: '', airDate: '2024-03-28', sceneImageUrl: 'https://tr.web.img4.acsta.net/r_654_368/img/c4/08/c40836dc1cd1f9d073d91d73c182951c.png'),
+    const Episode(id: 'ep_001', showId: 'show_001', episodeNumber: 55, title: 'Bölüm 55', airDate: '2024-03-10', sceneImageUrl: 'https://im.showtv.com.tr/2025/09/03/ver1756923814/3819734_1920x1080.jpg'),
+    const Episode(id: 'ep_002', showId: 'show_002', episodeNumber: 62, title: 'Bölüm 62', airDate: '2024-03-08', sceneImageUrl: 'https://image.tmdb.org/t/p/original/aBzchfhuZj8JSp3ZGyynoe8hNgu.jpg'),
+    const Episode(id: 'ep_003', showId: 'show_003', episodeNumber: 8, title: 'Bölüm 8', airDate: '2024-04-02', sceneImageUrl: 'https://mo.ciner.com.tr/showtv/iu/1258x630/bahar.jpg?v=1768983188'),
+    const Episode(id: 'ep_004', showId: 'show_004', episodeNumber: 10, title: 'Bölüm 10', airDate: '2024-03-28', sceneImageUrl: 'https://tr.web.img4.acsta.net/r_654_368/img/c4/08/c40836dc1cd1f9d073d91d73c182951c.png'),
   ];
 
   final List<Outfit> _outfits = [

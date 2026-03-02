@@ -2,7 +2,7 @@
 class AppConstants {
   AppConstants._();
 
-  static const String appName = 'Ne Giyer';
+  static const String appName = 'Dizi Market';
   static const String appTagline = 'Dizilerdeki stilini keşfet';
   static const String dataAssetPath = 'assets/data.json';
 
