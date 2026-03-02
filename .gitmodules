@@ -1,0 +1,3 @@
+[submodule "WhoWear"]
+	path = WhoWear
+	url = https://github.com/yakay/WhoWear.git
