@@ -48,6 +48,16 @@ local.properties
 # Windows
 Thumbs.db
 
+# shoppable_tv_admin / Next.js
+shoppable_tv_admin/node_modules/
+shoppable_tv_admin/.next/
+shoppable_tv_admin/.env*
+shoppable_tv_admin/.env.local
+shoppable_tv_admin/coverage
+shoppable_tv_admin/*.tsbuildinfo
+shoppable_tv_admin/npm-debug.log*
+shoppable_tv_admin/yarn-error.log*
+
 # Node.js (Admin Panel)
 node_modules/
 npm-debug.log*
